@@ -1,0 +1,7 @@
+{
+    "scope": "x_snc_shellapp2",
+    "scopeId": "2f7bfbed3b370f1044885e0f23e45a86",
+    "name": "ShellApp2",
+    "tsconfigPath": "./src/server/tsconfig.json",
+    "packageSourceCodeOnInstance": true
+}
